@@ -1,0 +1,3 @@
+flask-appbuilder
+flask-oauthlib
+werkzeug
